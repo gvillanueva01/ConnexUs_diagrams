@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T03:27:20.991Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="f07XDZ8oOwvWtmrMHDUJ" version="21.2.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-05-06T03:30:52.039Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Q5vCLEPC81MTkntjHcDS" version="21.2.7" type="github" pages="3">
   <diagram id="qYKofpDPqbtRSiOc9rL7" name="ConnexUs">
     <mxGraphModel dx="2092" dy="1848" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1891,7 +1891,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ej6csO1OlpU3GtGiGXmc" name="PERT">
-    <mxGraphModel dx="806" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2003,7 +2003,10 @@
         <mxCell id="ou_cPpDF9dWlUtWnduf2-28" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1120" y="325" width="40" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="ou_cPpDF9dWlUtWnduf2-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_cPpDF9dWlUtWnduf2-29" target="ou_cPpDF9dWlUtWnduf2-42">
+        <mxCell id="ou_cPpDF9dWlUtWnduf2-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_cPpDF9dWlUtWnduf2-29" target="ou_cPpDF9dWlUtWnduf2-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_cPpDF9dWlUtWnduf2-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ou_cPpDF9dWlUtWnduf2-29" target="ou_cPpDF9dWlUtWnduf2-65">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ou_cPpDF9dWlUtWnduf2-29" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
@@ -2326,6 +2329,9 @@
         </mxCell>
         <mxCell id="ou_cPpDF9dWlUtWnduf2-100" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="1960" y="539.25" width="40" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="ou_cPpDF9dWlUtWnduf2-122" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Critical Paths: A + B + C+ D + E + F + G + J + K + L&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;	&lt;/span&gt;3 + 2 + 2 + 2 + 2 + 1 + 3 + 15 + 3 + 2 =&amp;nbsp; 35 Weeks&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="940" y="840" width="800" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
