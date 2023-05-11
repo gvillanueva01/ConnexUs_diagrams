@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T10:37:54.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="RUQiDiG06R-GlcSZbIXV" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-11T15:45:45.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="7q4FK5mCUy7Q8e5TkxWX" version="21.2.9" type="github" pages="11">
   <diagram name="Page-1" id="dWg-lK4ktiXP6sA1lKUr">
     <mxGraphModel dx="2980" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
         <mxCell id="kj3o1h7G9YnmJoLtUgAj-30" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="710" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kj3o1h7G9YnmJoLtUgAj-31" value="Dashboard" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="kj3o1h7G9YnmJoLtUgAj-31" value="Discover Communities" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
           <mxGeometry y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kj3o1h7G9YnmJoLtUgAj-32" value="Prayer Feed" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
@@ -1212,7 +1212,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="IiwSbwyMaR9AnPsJaSrB" name="EventAttendance">
-    <mxGraphModel dx="1242" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1220,7 +1220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Azt-fuOBpqsWjr6ZlaKJ" name="EventHosting">
-    <mxGraphModel dx="1242" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1228,118 +1228,118 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FWdZBXoYO8F4u5Z1wy7E" name="PrayerRequest">
-    <mxGraphModel dx="1242" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1278" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0WClLpeylGHvj3Z5F42Z-1" target="0WClLpeylGHvj3Z5F42Z-2">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0WClLpeylGHvj3Z5F42Z-1" target="0WClLpeylGHvj3Z5F42Z-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0WClLpeylGHvj3Z5F42Z-1" value="" style="ellipse;fillColor=strokeColor;html=1;" vertex="1" parent="1">
+        <mxCell id="0WClLpeylGHvj3Z5F42Z-1" value="" style="ellipse;fillColor=strokeColor;html=1;" parent="1" vertex="1">
           <mxGeometry x="135" y="80" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WClLpeylGHvj3Z5F42Z-2" target="0WClLpeylGHvj3Z5F42Z-7">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="0WClLpeylGHvj3Z5F42Z-2" target="0WClLpeylGHvj3Z5F42Z-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0WClLpeylGHvj3Z5F42Z-2" value="Click Create Prayer Request" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="0WClLpeylGHvj3Z5F42Z-2" value="Click Create Prayer Request" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="90" y="150" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="0WClLpeylGHvj3Z5F42Z-5" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
+        <mxCell id="0WClLpeylGHvj3Z5F42Z-5" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="1" vertex="1">
           <mxGeometry x="365" y="670" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0WClLpeylGHvj3Z5F42Z-6" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="0WClLpeylGHvj3Z5F42Z-6" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="365" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0WClLpeylGHvj3Z5F42Z-7" target="Iws_iJKS7HY6pFDyrzMb-1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="0WClLpeylGHvj3Z5F42Z-7" target="Iws_iJKS7HY6pFDyrzMb-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0WClLpeylGHvj3Z5F42Z-7" value="Input Prayer Request Details and Submit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="0WClLpeylGHvj3Z5F42Z-7" value="Input Prayer Request Details and Submit" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="90" y="235" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iws_iJKS7HY6pFDyrzMb-1" target="Iws_iJKS7HY6pFDyrzMb-2">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Iws_iJKS7HY6pFDyrzMb-1" target="Iws_iJKS7HY6pFDyrzMb-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iws_iJKS7HY6pFDyrzMb-1" target="0WClLpeylGHvj3Z5F42Z-7">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Iws_iJKS7HY6pFDyrzMb-1" target="0WClLpeylGHvj3Z5F42Z-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="205" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iws_iJKS7HY6pFDyrzMb-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Inputs are&lt;br&gt;valid&amp;nbsp;and&lt;br&gt;complete?&lt;/font&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+        <mxCell id="Iws_iJKS7HY6pFDyrzMb-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Inputs are&lt;br&gt;valid&amp;nbsp;and&lt;br&gt;complete?&lt;/font&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
           <mxGeometry x="330" y="210" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Iws_iJKS7HY6pFDyrzMb-2" target="vrK8ORBF4wUssyVm8zQL-4">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Iws_iJKS7HY6pFDyrzMb-2" target="vrK8ORBF4wUssyVm8zQL-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Iws_iJKS7HY6pFDyrzMb-2" value="Notify Member of Prayer Request Pending Approval" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Iws_iJKS7HY6pFDyrzMb-2" value="Notify Member of Prayer Request Pending Approval" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="320" y="340" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iws_iJKS7HY6pFDyrzMb-4" target="vrK8ORBF4wUssyVm8zQL-3">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Iws_iJKS7HY6pFDyrzMb-4" target="vrK8ORBF4wUssyVm8zQL-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iws_iJKS7HY6pFDyrzMb-4" value="Respond to Prayer Request" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="Iws_iJKS7HY6pFDyrzMb-4" value="Respond to Prayer Request" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="530" y="390" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrK8ORBF4wUssyVm8zQL-1" target="vrK8ORBF4wUssyVm8zQL-2">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vrK8ORBF4wUssyVm8zQL-1" target="vrK8ORBF4wUssyVm8zQL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="590" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrK8ORBF4wUssyVm8zQL-1" target="vrK8ORBF4wUssyVm8zQL-14">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vrK8ORBF4wUssyVm8zQL-1" target="vrK8ORBF4wUssyVm8zQL-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Response Type&lt;/font&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Response Type&lt;/font&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;" parent="1" vertex="1">
           <mxGeometry x="540" y="480" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-2" value="Notify Member of Disapproval" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-2" value="Notify Member of Disapproval" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="320" y="450" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrK8ORBF4wUssyVm8zQL-3" target="vrK8ORBF4wUssyVm8zQL-1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vrK8ORBF4wUssyVm8zQL-3" target="vrK8ORBF4wUssyVm8zQL-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="525" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-3" value="Update Prayer Request Status" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-3" value="Update Prayer Request Status" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="720" y="430" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrK8ORBF4wUssyVm8zQL-4" target="Iws_iJKS7HY6pFDyrzMb-4">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vrK8ORBF4wUssyVm8zQL-4" target="Iws_iJKS7HY6pFDyrzMb-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="780" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-4" value="Save Prayer Request" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-4" value="Save Prayer Request" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="720" y="345" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-10" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-10" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="310" y="180" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrK8ORBF4wUssyVm8zQL-14" target="vrK8ORBF4wUssyVm8zQL-20">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="vrK8ORBF4wUssyVm8zQL-14" target="vrK8ORBF4wUssyVm8zQL-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-14" value="Notify Member of Approval" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-14" value="Notify Member of Approval" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="320" y="504" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vrK8ORBF4wUssyVm8zQL-20" target="0WClLpeylGHvj3Z5F42Z-5">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vrK8ORBF4wUssyVm8zQL-20" target="0WClLpeylGHvj3Z5F42Z-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-20" value="Display Prayer Request on Community and &amp;nbsp;Community Members&#39; Prayer Feeds" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-20" value="Display Prayer Request on Community and &amp;nbsp;Community Members&#39; Prayer Feeds" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="320" y="570" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-24" value="Approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-24" value="Approved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="470" y="500" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-25" value="Disapproved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-25" value="Disapproved" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="480" y="443" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
