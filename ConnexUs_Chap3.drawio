@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T09:48:27.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="J1pj70uNbw2b_lUDZ2za" version="21.2.9" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-05-11T09:53:47.870Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="ORTcYs61BA3HYufLkKFf" version="21.2.9" type="github" pages="11">
   <diagram name="Page-1" id="dWg-lK4ktiXP6sA1lKUr">
     <mxGraphModel dx="2942" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         <mxCell id="kj3o1h7G9YnmJoLtUgAj-34" value="Community Page Management" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-695" y="678" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kj3o1h7G9YnmJoLtUgAj-35" value="Community Posts" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
+        <mxCell id="kj3o1h7G9YnmJoLtUgAj-35" value="Community Post Creation" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
           <mxGeometry x="-665" y="758" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kj3o1h7G9YnmJoLtUgAj-36" value="Community Posts View" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=17;" parent="1" vertex="1">
