@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-28T13:15:44.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="12gg5zrfy74oUlgXcIgv" version="21.7.4" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-09-28T13:17:18.562Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wxghy94QkTWGlT4tU8S2" version="21.7.4" type="github" pages="11">
   <diagram id="oiWLMyW6f8d4BN8w3hJY" name="General Features">
     <mxGraphModel dx="1242" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1279,7 +1279,7 @@
         <mxCell id="0WClLpeylGHvj3Z5F42Z-5" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="370" y="732" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0WClLpeylGHvj3Z5F42Z-6" value="True" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="0WClLpeylGHvj3Z5F42Z-6" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="368" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrK8ORBF4wUssyVm8zQL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="0WClLpeylGHvj3Z5F42Z-7" target="Iws_iJKS7HY6pFDyrzMb-1" edge="1">
@@ -1322,13 +1322,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Approve Prayer Request?&lt;/font&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="605" y="420" width="100" height="90" as="geometry" />
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-1" value="&lt;font face=&quot;Times New Roman&quot;&gt;Approve &lt;br&gt;Prayer &lt;br&gt;Request?&lt;/font&gt;" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="597.5" y="420" width="115" height="90" as="geometry" />
         </mxCell>
         <mxCell id="vrK8ORBF4wUssyVm8zQL-2" value="Notify Member of Disapproval" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="250" y="445" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-10" value="False" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-10" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="310" y="180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vrK8ORBF4wUssyVm8zQL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="vrK8ORBF4wUssyVm8zQL-14" target="vrK8ORBF4wUssyVm8zQL-20" edge="1">
@@ -1348,10 +1348,10 @@
         <mxCell id="vrK8ORBF4wUssyVm8zQL-20" value="Display Prayer Request on Community and &amp;nbsp;Community Members&#39; Prayer Feeds" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="400" y="580" width="120" height="108" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-24" value="Approve" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-24" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="550" y="510" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vrK8ORBF4wUssyVm8zQL-25" value="Disapprove" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="vrK8ORBF4wUssyVm8zQL-25" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="470" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="L8cSIo-QIr4_-MZ-hHfx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="vrK8ORBF4wUssyVm8zQL-2" target="0WClLpeylGHvj3Z5F42Z-5" edge="1">
